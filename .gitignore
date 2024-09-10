@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+logs/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Other system files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory for testing
+coverage/
+
+# NPM package-lock
+package-lock.json
